@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "会员空间",
+  "titleNView": {
+    "buttons": [
+      {
+        "type": "menu"
+      }
+    ]
+  },
+  "usingComponents": {
+    "divider": "/components/common/divider",
+    "common-list": "/components/common/common-list",
+    "uni-popup": "/components/uni-ui/uni-popup/uni-popup"
+  }
+}

@@ -1,0 +1,14 @@
+
+.QQ{
+	background: #2CAEFC;
+}
+.weixin{
+	background: #2BD19B;
+}
+.xinlangweibo{
+	background: #FC7729;
+}
+.changyonglogo30{
+	background: #007AFF;
+}
+
